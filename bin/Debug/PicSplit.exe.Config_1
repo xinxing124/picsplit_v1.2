@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+    <appSettings>
+        <add key="SplitWidth" value="669" />
+        <add key="SplitHeight" value="1703" />
+        <add key="SplitStartX" value="352" />
+        <add key="SplitStartY" value="98" />
+        <add key="SplitDelHeight" value="10" />
+    </appSettings>
+</configuration>
